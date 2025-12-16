@@ -1,0 +1,146 @@
+# 🌐 Week 1 - Responsive Portfolio Website
+
+This project is a **fully responsive personal portfolio website** created as part of **Week 1 – HTML & CSS Foundations**.  
+It demonstrates the use of semantic HTML, modular CSS structure, responsive design techniques, and basic JavaScript interactions.
+
+---
+
+## 📁 Folder Structure
+
+```
+week1-portfolio/
+│── index.html
+│
+│── css/
+│   ├── variables.css
+│   ├── style.css
+│   └── responsive.css
+│
+│── js/
+│   ├── navigation.js
+│   └── script.js
+│
+│── images/
+│   ├── hero-placeholder.png
+│   ├── about-placeholder.jpg
+│   ├── project1.jpg
+│   ├── project2.jpg
+│   └── project3.jpg
+│
+│── README.md
+└── .gitignore
+```
+
+---
+
+## ✨ Features
+
+### 🧱 **Semantic HTML5 Structure**
+- Clean and structured `<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`
+- SEO-friendly & accessibility-friendly markup
+- ARIA labels for navigation
+
+### 🎨 **Modular CSS Architecture**
+- `variables.css` → Color palette, fonts, theme settings  
+- `style.css` → Main layout & component styles  
+- `responsive.css` → Media queries for all devices  
+
+### 📱 **Fully Responsive Design**
+- Mobile-first design system
+- Flexbox and CSS Grid layouts
+- Modern hamburger menu for mobile
+
+### 🧠 **Interactive JavaScript**
+- Mobile navigation toggle  
+- Contact form validation (simulated submit)  
+- Auto-updating footer year  
+
+### 🧑‍🦽 **Accessibility**
+- Skip-to-content link  
+- High contrast colors  
+- Semantic labels for screen readers  
+
+---
+
+## 🚀 Live Demo (Add when deployed)
+
+You can deploy your portfolio using **GitHub Pages**:
+
+### Steps:
+1. Go to **Settings**
+2. Open **Pages**
+3. Select:
+   - Branch → `main`
+   - Folder → `/root`
+4. Click **Save**
+
+Your website will appear here:
+
+```
+https://<your-username>.github.io/week1-portfolio/
+```
+
+Replace `<your-username>` with your actual GitHub username.
+
+---
+
+## 🛠️ How to Run Locally
+
+```
+git clone https://github.com/<your-username>/week1-portfolio.git
+cd week1-portfolio
+```
+
+Now open `index.html` in your browser  
+OR use **VS Code Live Server**.
+
+---
+
+## 📸 Screenshots  
+(Add your actual project screenshots after testing your portfolio)
+
+Example placeholders:
+
+```
+/images/screenshot-home.png
+/images/screenshot-projects.png
+```
+
+---
+
+## 🧰 Technologies Used
+
+- **HTML5**
+- **CSS3** (Grid, Flexbox, Media Queries)
+- **JavaScript (ES6+)**
+- **Google Fonts**
+- **Git & GitHub**
+
+---
+
+## 👩‍💻 Author
+
+**Anusha Kasarla**  
+Frontend Developer | CS Student  
+
+- GitHub: https://github.com/<your-username>  
+- LinkedIn: https://linkedin.com/in/<your-linkedin>  
+
+Update the links above with your actual IDs.
+
+---
+
+## 🤝 Contributing
+
+Contributions, improvements, and suggestions are welcome!  
+Feel free to submit an issue or pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+### ⭐ If you like this project, don't forget to give it a **GitHub Star**!
