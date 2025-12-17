@@ -87,7 +87,7 @@ Replace `<your-username>` with your actual GitHub username.
 ## 🛠️ How to Run Locally
 
 ```
-git clone https://github.com/<your-username>/week1-portfolio.git
+git clone https://github.com/AnushaKasarla123/week1-portfolio.git
 cd week1-portfolio
 ```
 
